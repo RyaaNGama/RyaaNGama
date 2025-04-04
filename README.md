@@ -1,4 +1,4 @@
-## Olá, sou o Ryan Gama
+## Olá, sou o Ryan Gama!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
